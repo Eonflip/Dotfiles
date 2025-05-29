@@ -33,6 +33,8 @@ return {
 				'pylsp',
 				'clangd'
 			},
+			automatic_installation = true,
+			automatic_enable = false,
 		})
 
 		mason_tool_installer.setup({
