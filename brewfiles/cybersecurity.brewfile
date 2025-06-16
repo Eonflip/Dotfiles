@@ -1,0 +1,49 @@
+# Create a Brewfile to install Cybersec tools
+
+# --- Terminal enhancements ---
+brew "zsh"
+brew "zsh-autosuggestions"
+brew "zsh-syntax-highlighting"
+
+# --- Core tools ---
+brew "nmap"
+brew "masscan"
+brew "wireshark"
+brew "tcpdump"
+brew "sqlmap"
+brew "hydra"
+brew "john"
+brew "hashcat"
+brew "theharvester"
+brew "amass"
+brew "nikto"
+brew "gobuster"
+
+# --- Pentesting frameworks ---
+cask "metasploit"
+
+# --- Web Pentesting Tools ---
+cask "burp-suite"
+
+# --- Dev tools ---
+brew "python"
+brew "jupyterlab"
+
+# --- Virtualization & GUI apps ---
+cask "visual-studio-code"
+cask "docker"
+cask "multipass"
+
+# --- OSINT & Reverse engineering ---
+brew "exiftool"
+brew "radare2"
+cask "cutter"
+cask "ghidra"
+
+# --- Utilities ---
+brew "openvpn"
+brew "git"
+brew "wget"
+brew "netcat"
+brew "jq"
+

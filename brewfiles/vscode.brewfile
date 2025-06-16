@@ -1,0 +1,33 @@
+# --- VS Code Extensions ---
+vscode "codeium.codeium"                                # AI-assisted code completion
+vscode "dart-code.dart-code"                            # Dart and Flutter language support (mobile apps)
+vscode "dart-code.flutter"                              # Dart and Flutter language support (mobile apps)
+vscode "dbaeumer.vscode-eslint"                         # JavaScript/TypeScript linting
+vscode "eamodio.gitlens"                                # Git history visualized in VSCode
+vscode "esbenp.prettier-vscode"                         # Code formatter (JS/TS/HTML)
+vscode "george-alisson.html-preview-vscode"             # Preview HTML inside VSCode
+vscode "github.copilot"                                 # Github's AI coding assistant
+vscode "github.copilot-chat"                            # Github AI Chat
+vscode "mechatroner.rainbow-csv"                        # Highlight CSV columns by color
+vscode "ms-azuretools.vscode-docker"                    # Docker extension (build, manage containers)
+vscode "ms-kubernetes-tools.vscode-kubernetes-tools"    # Kubernetes cluster management in VSCode
+vscode "ms-python.debugpy"                              # Debugging for Python apps
+vscode "ms-python.python"                               # Python IntelliSense, linting, and more
+vscode "ms-python.vscode-pylance"                       # Super fast Python language server
+vscode "ms-toolsai.jupyter"                             # Jupyter Notebook Integration
+vscode "ms-toolsai.jupyter-keymap"   
+vscode "ms-toolsai.jupyter-renderers" 
+vscode "ms-toolsai.vscode-jupyter-cell-tags"
+vscode "ms-toolsai.vscode-jupyter-slideshow"
+vscode "ms-vscode-remote.remote-containers"             # Remote development inside containers or SSH
+vscode "ms-vscode-remote.remote-ssh"                    # Remote development inside containers or SSH
+vscode "ms-vscode-remote.remote-ssh-edit"               # Remote development inside containers or SSH
+vscode "ms-vscode.cmake-tools"                          # CMake project management
+vscode "ms-vscode.cpptools"                             # C/C++ IntelliSense, Debugging, Build support
+vscode "ms-vscode.cpptools-extension-pack"              # C/C++ IntelliSense, Debugging, Build support
+vscode "ms-vscode.cpptools-themes"                      # C/C++ IntelliSense, Debugging, Build support
+vscode "ms-vscode.remote-explorer" 
+vscode "redhat.vscode-yaml"                             # YAML file support (essential for Kubernetes, Ansible)
+vscode "ritwickdey.liveserver"                          # Launch a live-reload server for web development
+vscode "robbowen.synthwave-vscode"                      # Synthwave aesthetic theme 
+vscode "twxs.cmake"                                     # Basic Cmake language support
