@@ -14,16 +14,16 @@ sudo apt upgrade -y
 
 echo "📦 Installing packages..."
 sudo apt install -y \
-    curl \
-    zsh \
-    neovim \
-    tmux \
-    ufw \
-    fail2ban \
-    postgresql-common \
-    postgresql-client \
-    sqlite3 \
-	python3 \
+    	curl \
+    	zsh \
+    	neovim \
+    	tmux \
+    	ufw \
+    	fail2ban \
+    	postgresql-common \
+    	postgresql-client \
+    	sqlite3 \
+    	python3 \
 	python3-pip \
 	python3-venv \
 	nodejs \
